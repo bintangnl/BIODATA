@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BIODATA</string>
+    <string name="foto">Foto</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="alamat">Blitar,Jawa Timur, Indonesia</string>
+    <string name="ikuti_saya">Ikuti saya</string>
+    <string name="itn">Institut Teknologi Malang</string>
+</resources>
